@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 # 12-fizzbuzz.py
 
 
@@ -17,4 +17,4 @@ def fizzbuzz():
         elif number % 5 == 0:
             print("Buzz ", end="")
         else:
-            print("{} ".format(number), end="")/
+            print("{} ".format(number), end="")
